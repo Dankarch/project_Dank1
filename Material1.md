@@ -1,2 +1,3 @@
-my first project will be my examination result of any questions that I will have answered from ngodonfkomuniti project starting from lesson 1 until finish all the lessons
-in order to understanding any aspects of programming I will have to master the github first
+- my first project will be my examination result of any questions that I will have answered from ngodonfkomuniti project starting from lesson 1 until finish all the lessons
+- in order to understanding any aspects of programming I will have to master the github first
+- adding new lesson every single night from ngodonfkomunity lesson material
